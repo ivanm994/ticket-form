@@ -1,0 +1,13 @@
+body {
+  background-color: #f0f0f0;
+}
+
+#zammad-feedback-form p {
+  max-width: 300px;
+  margin: 0 auto;
+}
+
+.btn {
+  background-color: rgba(31,73,125,255);
+  color: white;
+}
